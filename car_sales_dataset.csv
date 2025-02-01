@@ -1,0 +1,51 @@
+Car_ID,Make,Model,Year,Price,Mileage,Fuel_Type,Transmission,Engine_Size,Horsepower,Torque,Drivetrain,Color,Number_of_Doors,Number_of_Seats,Owner_Type,Location,Seller_Type,Condition,Listing_Date
+1,Nissan,Murano,2020,64139,87268,Electric,Automatic,4.4,575,468,RWD,Silver,4,2,Second Owner,New York,Private,Salvage,2024-02-21
+2,Mercedes,GLC,2023,32062,111350,Diesel,Automatic,1.5,130,341,FWD,Red,4,5,Second Owner,Chicago,Dealer,Like New,2024-04-12
+3,BMW,5 Series,2020,85808,178014,Hybrid,Automatic,1.2,427,316,4WD,Grey,4,7,Third Owner,Chicago,Certified Pre-Owned,Salvage,2024-02-08
+4,Mercedes,GLE,2017,31782,159463,Diesel,Manual,2.8,414,112,RWD,White,4,7,Second Owner,Los Angeles,Private,New,2024-12-03
+5,Hyundai,Santa Fe,2023,18653,12636,Petrol,CVT,1.1,167,135,FWD,Blue,2,4,First Owner,Houston,Private,Salvage,2024-09-07
+6,Chevrolet,Traverse,2018,56100,156951,Petrol,Manual,4.6,189,228,4WD,Red,2,5,Lease Return,Phoenix,Certified Pre-Owned,New,2024-04-12
+7,Honda,CR-V,2017,54052,148054,Electric,Manual,4.2,243,249,FWD,Green,4,2,Lease Return,Houston,Dealer,New,2024-04-22
+8,Toyota,RAV4,2019,28912,131502,Diesel,Automatic,2.5,582,760,RWD,White,2,2,Second Owner,Houston,Dealer,New,2024-03-04
+9,Audi,A4,2013,40601,126521,Petrol,CVT,3.0,230,442,AWD,Grey,4,7,Second Owner,Houston,Certified Pre-Owned,Like New,2024-10-17
+10,BMW,5 Series,2019,27454,37522,Petrol,Manual,4.8,220,415,FWD,Green,2,5,Third Owner,Los Angeles,Private,Like New,2025-01-21
+11,Honda,Civic,2014,24363,198599,Electric,Manual,3.2,141,428,4WD,Grey,4,4,Third Owner,Chicago,Certified Pre-Owned,Salvage,2024-10-12
+12,Nissan,Sentra,2016,8483,109932,Hybrid,Automatic,2.7,473,101,RWD,White,2,2,Second Owner,Phoenix,Dealer,Like New,2024-09-01
+13,Ford,Explorer,2010,48985,41619,Hybrid,Automatic,2.3,332,197,AWD,Green,2,4,Second Owner,Chicago,Private,Used,2024-06-15
+14,Chevrolet,Silverado,2006,65765,148992,Electric,CVT,3.3,460,480,AWD,White,2,7,Third Owner,Houston,Private,New,2024-03-22
+15,Ford,Escape,2013,56910,85818,Electric,Manual,3.1,330,636,RWD,Red,2,4,Second Owner,Los Angeles,Private,Like New,2024-03-28
+16,Honda,Accord,2017,54569,142719,Diesel,Manual,3.2,152,469,RWD,Black,2,2,Lease Return,Phoenix,Private,Like New,2024-12-19
+17,Hyundai,Tucson,2022,64358,89805,Diesel,Automatic,4.6,388,780,AWD,Black,4,4,Third Owner,New York,Private,Salvage,2024-12-25
+18,Kia,Sportage,2011,59900,46672,Petrol,CVT,1.4,495,292,RWD,Black,4,4,Lease Return,Phoenix,Private,Like New,2024-07-31
+19,Kia,Sorento,2010,85960,157329,Hybrid,CVT,2.5,282,216,4WD,Silver,2,2,Lease Return,Los Angeles,Private,Like New,2024-12-26
+20,Hyundai,Elantra,2009,19960,181371,Electric,Automatic,1.8,513,492,4WD,Silver,4,7,Lease Return,Los Angeles,Private,Salvage,2024-03-25
+21,Audi,Q5,2018,10649,176007,Electric,Manual,1.4,277,416,4WD,White,2,2,First Owner,New York,Dealer,New,2024-11-12
+22,Ford,Escape,2020,16000,38377,Petrol,CVT,2.3,562,376,FWD,Silver,4,2,Second Owner,Houston,Certified Pre-Owned,New,2024-04-13
+23,Chevrolet,Silverado,2015,45592,163780,Hybrid,Automatic,2.2,553,531,RWD,Grey,2,7,Lease Return,Chicago,Certified Pre-Owned,New,2024-05-24
+24,BMW,7 Series,2014,38809,51000,Hybrid,Manual,4.8,341,306,FWD,Black,4,4,Third Owner,Chicago,Certified Pre-Owned,Used,2024-12-01
+25,Honda,CR-V,2016,33961,8634,Electric,CVT,4.8,459,177,RWD,Grey,4,2,First Owner,Los Angeles,Dealer,Like New,2024-02-04
+26,Toyota,Camry,2019,12335,192614,Diesel,Automatic,1.8,501,758,RWD,Silver,4,4,Second Owner,Los Angeles,Dealer,Used,2024-10-20
+27,Hyundai,Santa Fe,2023,6026,71013,Petrol,Manual,1.4,116,563,AWD,Black,2,2,First Owner,Houston,Dealer,Used,2024-11-20
+28,Kia,Soul,2021,26204,67238,Hybrid,Automatic,2.4,407,478,RWD,Black,4,4,Third Owner,Los Angeles,Certified Pre-Owned,Used,2024-08-20
+29,Hyundai,Elantra,2022,80507,41686,Electric,Automatic,1.2,575,700,RWD,Green,2,7,Third Owner,New York,Private,Like New,2024-12-18
+30,Mercedes,E-Class,2021,61877,58485,Diesel,Automatic,4.8,270,612,FWD,Green,4,4,Lease Return,Phoenix,Private,Like New,2024-12-04
+31,Hyundai,Santa Fe,2010,65446,158497,Diesel,Manual,2.9,473,638,4WD,Blue,4,5,First Owner,Chicago,Dealer,Like New,2024-09-24
+32,Mercedes,GLC,2015,12355,150636,Electric,Automatic,1.6,481,420,FWD,White,4,5,Lease Return,Phoenix,Certified Pre-Owned,New,2024-03-02
+33,Ford,Mustang,2006,67278,56713,Diesel,Manual,1.1,367,308,RWD,Grey,4,4,Second Owner,Los Angeles,Certified Pre-Owned,Salvage,2024-04-08
+34,Honda,Pilot,2011,27270,147843,Hybrid,Automatic,3.2,331,187,4WD,Grey,2,4,Lease Return,Los Angeles,Dealer,New,2024-09-23
+35,Chevrolet,Malibu,2013,56683,47769,Electric,Manual,1.7,305,580,4WD,Grey,2,4,Lease Return,Phoenix,Private,Used,2025-01-30
+36,Hyundai,Tucson,2024,12228,178030,Hybrid,Automatic,1.7,116,655,4WD,Red,4,4,Third Owner,Houston,Private,New,2024-12-26
+37,Nissan,Altima,2009,7095,149826,Electric,Manual,1.2,528,566,FWD,Blue,4,5,Second Owner,Chicago,Private,Used,2025-01-04
+38,Toyota,Highlander,2021,58458,24818,Diesel,Manual,4.3,235,405,RWD,Blue,2,7,Third Owner,Los Angeles,Dealer,Used,2024-05-17
+39,Toyota,RAV4,2022,88142,176944,Hybrid,Automatic,2.7,350,757,4WD,Silver,2,2,Lease Return,Phoenix,Certified Pre-Owned,New,2024-08-20
+40,Nissan,Altima,2007,74915,9749,Petrol,CVT,2.1,107,318,4WD,Blue,2,5,Second Owner,Chicago,Dealer,New,2024-08-07
+41,BMW,5 Series,2011,85908,127554,Hybrid,CVT,5.0,451,642,RWD,Green,2,4,Lease Return,Los Angeles,Certified Pre-Owned,Salvage,2024-11-19
+42,Ford,F-150,2011,12622,168819,Diesel,Automatic,1.2,437,364,FWD,Silver,2,5,First Owner,New York,Certified Pre-Owned,Like New,2024-09-17
+43,Mercedes,GLC,2019,83139,128420,Petrol,Manual,2.4,209,601,4WD,Red,2,4,First Owner,Phoenix,Certified Pre-Owned,Used,2025-01-02
+44,Ford,Mustang,2009,12799,133542,Diesel,Automatic,2.8,204,369,FWD,Silver,2,4,First Owner,Phoenix,Dealer,New,2024-12-15
+45,Nissan,Rogue,2017,78690,74563,Hybrid,CVT,2.8,330,420,FWD,Silver,4,4,Third Owner,New York,Certified Pre-Owned,New,2024-04-27
+46,Hyundai,Tucson,2014,38777,167522,Petrol,Automatic,1.4,119,319,RWD,Red,4,7,Lease Return,Chicago,Certified Pre-Owned,Salvage,2024-07-28
+47,BMW,7 Series,2017,85902,97548,Petrol,CVT,1.7,270,596,AWD,White,2,7,Second Owner,Houston,Certified Pre-Owned,New,2024-03-31
+48,Kia,Soul,2024,69598,94035,Hybrid,CVT,3.7,141,748,AWD,White,2,4,Lease Return,Phoenix,Dealer,Like New,2024-12-15
+49,Chevrolet,Equinox,2012,19217,190049,Electric,CVT,3.6,158,451,FWD,Blue,4,4,Second Owner,Phoenix,Certified Pre-Owned,Used,2024-02-04
+50,Hyundai,Tucson,2005,68217,30376,Petrol,Manual,1.4,232,604,AWD,Green,2,7,Lease Return,Los Angeles,Dealer,Used,2024-05-08
